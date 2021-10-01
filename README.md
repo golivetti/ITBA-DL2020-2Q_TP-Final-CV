@@ -12,7 +12,7 @@ Esta notebook modificada incluye las respuestas a las preguntas del trabajo fina
 
 En la carpeta "/content/output" están las imágenes originales del Trabajo Final (contenido y estilo) y la imagen final generada luego de 100 iteraciones (output_at_iteration_99.png).
 
-En la carpeta "/content/Pregunta 8" están las imágenes finales generadas (resultado después de 100 iteraciones) a partir de las imágenes originales de la notebook para diferentes combinaciones de pesos de las losses.
+En la carpeta "/content/Pregunta 8" están las imágenes finales generadas (resultado después de 100 iteraciones) a partir de las imágenes originales (también incluidas en la carpeta) de la notebook para diferentes combinaciones de pesos de las losses.
 En el nombre de archivo de cada imagen se indican los valores de los pesos de losses utilizados para generar dicha imagen. Por ejemplo, "pto8_alfa1_beta10000_TVL1e-1__xxxxxxx" significa que se usó un alfa (contenido) de 1, un beta (estilo) de 10000 y un peso para Total Variation Loss de 0.1
 
 En la carpeta "/content/Pregunta 9" están las imágenes finales generadas (resultado después de 100 iteraciones) a partir de imágenes elegidas para algunas combinaciones de pesos de las losses.
