@@ -10,7 +10,7 @@ La notebook "Trabajo_Final_CNN_Style_Transfer.ipynb" es la original de referenci
 La notebook "ITBA_DL2020-2Q_Olivetti_TP-Final-CV.ipynb" es la entrega del Trabajo Final de CV correspondiente a la diplomatura DL2020-2Q.
 Esta notebook modificada incluye las respuestas a las preguntas del trabajo final junto con algunos comentarios e imágenes de referencia agregados durante el análisis del código.
 
-En la raíz se incluyeron imágenes de referencia utilizadas en el proyecto.
+En la raíz se incluyeron imágenes de referencia utilizadas en el proyecto y el paper de referencia en PDF.
 
 En la carpeta "/content/output" están las imágenes originales del Trabajo Final (contenido y estilo) y la imagen final generada luego de 100 iteraciones (output_at_iteration_99.png).
 
